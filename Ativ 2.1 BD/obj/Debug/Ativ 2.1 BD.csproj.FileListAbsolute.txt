@@ -1,0 +1,23 @@
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\Ativ 2.1 BD.exe.config
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\Ativ 2.1 BD.exe
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\Ativ 2.1 BD.pdb
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\MySql.Data.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\Google.Protobuf.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\Zstandard.Net.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\Renci.SshNet.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\System.Buffers.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\bin\Debug\MySql.Data.xml
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\obj\Debug\Ativ 2.1 BD.csprojAssemblyReference.cache
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\obj\Debug\Ativ_2._1_BD.Form1.resources
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\obj\Debug\Ativ_2._1_BD.Properties.Resources.resources
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\obj\Debug\Ativ 2.1 BD.csproj.GenerateResource.cache
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\obj\Debug\Ativ 2.1 BD.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\obj\Debug\Ativ 2.1 BD.csproj.CopyComplete
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\obj\Debug\Ativ 2.1 BD.exe
+C:\Users\Douglas\Documents\Unis\2020\Banco de Dados\Ativ_Desafio[2.1]\Ativ 2.1 BD\Ativ 2.1 BD\obj\Debug\Ativ 2.1 BD.pdb
